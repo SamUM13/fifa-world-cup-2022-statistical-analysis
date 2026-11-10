@@ -5,9 +5,23 @@ Using a dataset containing 814 players and 18 attributes, the analysis explores 
 
 The project demonstrates practical applications of descriptive statistics, exploratory data analysis, statistical inference, Bayesian reasoning, Monte Carlo simulation, and probability distribution fitting using Python.
 
-Objectives:
--Examine dataset structure, variable types, missing values and data quality.
--Investigate player performance distributions, variability and outliers.
--Explore relationships between player appearances, positions and goals scored.
--Apply probability theory and Bayesian inference to evaluate the relationship between playing position and scoring probability.
--Investigate statistical distributions and demonstrate the Central Limit Theorem through simulation.
+Included but not limited to:
+-Descriptive statistics, including mean, median, standard deviation and interquartile range.
+
+-Skewness and kurtosis analysis.
+
+-Pearson and Spearman correlation analysis.
+
+-Data visualization using histograms, box plots, scatter plots and correlation heatmaps.
+
+-Application of Bayes' theorem to investigate the probability of a player being a forward given that they scored.
+
+-Normality assessment using histograms, Q-Q plots and Shapiro-Wilk tests.
+
+-Poisson and Negative Binomial distribution fitting for goal-scoring data.
+
+-Square-root transformation for skewed performance variables.
+
+-Central Limit Theorem demonstration using repeated sampling simulations.
+
+-Sample size estimation based on confidence interval requirements.
